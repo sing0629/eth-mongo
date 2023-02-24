@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://<user>:<password>@cluster0.u2mpt.mongodb.net/?retryWrites=true&w=majority
+      database : Task
